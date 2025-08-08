@@ -1,0 +1,22 @@
+[
+  {
+    "start": 7900,
+    "duration": 200,
+    "amplitude": 225
+  },
+  {
+    "start": 10788,
+    "duration": 200,
+    "amplitude": 225
+  },
+  {
+    "start": 17100,
+    "duration": 200,
+    "amplitude": 225
+  },
+  {
+    "start": 20100,
+    "duration": 400,
+    "amplitude": 225
+  }
+]
