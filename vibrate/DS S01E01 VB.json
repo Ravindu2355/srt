@@ -1,0 +1,42 @@
+[
+  {
+    "start": 582092,
+    "duration": 100,
+    "amplitude": 255
+  },
+  {
+    "start": 617141,
+    "duration": 50,
+    "amplitude": 255
+  },
+  {
+    "start": 725624,
+    "duration": 200,
+    "amplitude": 255
+  },
+  {
+    "start": 726500,
+    "duration": 200,
+    "amplitude": 255
+  },
+  {
+    "start": 731881,
+    "duration": 50,
+    "amplitude": 255
+  },
+  {
+    "start": 1025726,
+    "duration": 50,
+    "amplitude": 255
+  },
+  {
+    "start": 1046358,
+    "duration": 50,
+    "amplitude": 255
+  },
+  {
+    "start": 1155277,
+    "duration": 50,
+    "amplitude": 255
+  }
+]
